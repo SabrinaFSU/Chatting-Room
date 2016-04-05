@@ -67,4 +67,3 @@ $ sent I am in class room
 The message will pop out at Columia,network's terminal.
 
 
-"# Chatting-Room"  
